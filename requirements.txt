@@ -1,0 +1,14 @@
+Flask==2.2.2
+Flask-SQLAlchemy==3.0.3
+Werkzeug==2.2.2
+marshmallow==3.20.1
+Faker==15.3.2
+Flask-Migrate==4.0.0
+Flask-RESTful==0.3.9
+importlib-metadata==6.0.0
+importlib-resources==5.10.0
+Flask-Bcrypt==1.0.1
+Flask-JWT-Extended==4.4.4
+python-dotenv==1.0.0
+Flask-Cors==4.0.0
+pytest==7.2.0
